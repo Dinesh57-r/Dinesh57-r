@@ -1,87 +1,194 @@
 <div align="center">
 
-# Dinesh R
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Dinesh%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" />
 
-**AI/ML Engineer in the making** · BE CSE (AIML), Sri Eshwar College of Engineering
+<br>
 
-📧 dinesh.r30082006@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/) &nbsp;|&nbsp; [HackerRank](https://www.hackerrank.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinesh.r30082006@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 
 </div>
 
 <br>
 
-## About
+## 🚀 About Me
 
-| | |
-|---|---|
-| 🎓 **Education** | BE CSE (AI & ML), Sri Eshwar College of Engineering — 2023–2027 |
-| 🧠 **Focus** | Machine Learning, NLP, LLMs, Full-Stack Development |
-| 🏆 **Hackathons** | 5+ participated, incl. Adya MCP Hackathon |
-| 🔢 **Problems Solved** | 570+ across LeetCode, HackerRank & Skillrack |
+I'm a final-year **AI & Machine Learning** engineering student who builds intelligent, production-minded applications — from NLP-driven ranking systems to full-stack platforms. I care about clean architecture, practical AI integration, and shipping things that actually work end to end.
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Tech Stack
+**🎓 Education**
+BE, Computer Science (AI & ML)
+Sri Eshwar College of Engineering
+`2023 – 2027`
 
-| Category | Stack |
-|---|---|
-| **Languages** | C++ · Python · JavaScript · SQL · HTML · CSS |
-| **Frameworks** | React.js · Node.js · Express.js · Streamlit · LangChain |
-| **ML / AI** | Scikit-learn · TensorFlow · Keras · NLTK · Sentence Transformers · FAISS · TF-IDF |
-| **Databases** | MongoDB · MySQL |
-| **Tools** | Git · GitHub · VS Code · PyCharm · Postman · Vercel · Canva |
-| **Core Concepts** | DSA · OOPS · DBMS · CN · ML · NLP · DS |
+**📍 Focus Areas**
+Machine Learning · NLP · LLM Applications
+Full-Stack Development
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-## Projects
+**🏆 Hackathons**
+5+ hackathons, including the **Adya MCP Hackathon**
 
-| Project | Date | Tech Stack | Description |
-|---|---|---|---|
-| **AI Resume Screening & Candidate Ranking System** | Feb 2026 | Python, Scikit-learn, NLTK, Sentence Transformers, FAISS, TF-IDF, Streamlit | Ranks candidates against job descriptions using semantic similarity, NLP, and vector search. |
-| **AI-Powered Customer Ticket Support System** | Nov 2025 | Python, NLP, Scikit-learn, React.js, FastAPI, MongoDB | Auto-classifies customer issues and predicts ticket priority, with full tracking & status management. |
-| **LLM-Powered SQL Query Generator** | Apr 2025 | Python, Streamlit, LangChain, LLMs, MySQL | Converts natural language into SQL queries — no manual SQL writing required. |
-| **AI-Powered Learning Platform** *(MERN Internship)* | Jan 2025 | MongoDB, Express.js, React.js, Node.js | AI-driven movie learning review feature; boosted user engagement by 50%. |
+**🔢 Problem Solving**
+570+ problems solved across LeetCode, HackerRank & Skillrack
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## Coding Profiles
+## 🛠️ Tech Stack
 
-| Platform | Stats |
-|---|---|
-| **LeetCode** | Max Rating 1,544 · Global Rank 286,586 · 170+ solved |
-| **HackerRank** | 100+ problems solved |
-| **Skillrack** | 300+ problems solved |
+<div align="center">
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / ML / NLP**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Web**
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 <br>
 
-## Certifications
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Resume Screening & Candidate Ranking
+**Feb 2026**
+
+Ranks candidates against job descriptions using semantic similarity, Sentence Transformers, and FAISS vector search — wrapped in an interactive Streamlit interface.
+
+`Python` `Scikit-learn` `NLTK` `FAISS` `TF-IDF` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎫 AI-Powered Customer Ticket Support
+**Nov 2025**
+
+Automatically classifies customer issues and predicts ticket priority using NLP/ML, with full tracking and status management via a web interface.
+
+`Python` `NLP` `React.js` `FastAPI` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ LLM-Powered SQL Query Generator
+**Apr 2025**
+
+Converts natural-language questions into executable SQL using LangChain and LLMs — no manual query writing required.
+
+`Python` `Streamlit` `LangChain` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 AI-Powered Learning Platform
+**MERN Internship · Jan 2025**
+
+Built an AI-driven movie learning review feature on a full MERN stack, lifting user engagement by **50%**.
+
+`MongoDB` `Express.js` `React.js` `Node.js`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2563eb&icon_color=2563eb" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=2563eb" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&ring=2563eb&fire=2563eb" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&color=2563eb&line=2563eb" />
+
+</div>
+
+<br>
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+| Platform | Highlights |
+|:---:|:---:|
+| **LeetCode** | Max Rating **1,544** · Global Rank **286,586** · **170+** solved |
+| **HackerRank** | **100+** problems solved |
+| **Skillrack** | **300+** problems solved |
+
+</div>
+
+<br>
+
+## 📜 Certifications
+
+<div align="center">
 
 | Certification | Provider | Year |
-|---|---|---|
+|---|:---:|:---:|
 | Python for Data Science | IBM SkillsBuild | 2026 |
 | Mastering Data Structures | Udemy | 2025 |
 | Introduction to Machine Learning | Kaggle | 2025 |
 | Introduction to Python | CodeChef | 2024 |
 | Front-End Development with React | Great Learning | 2024 |
 
-<br>
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=default&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=default&hide_border=true" />
-
 </div>
 
 <br>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
+
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=2563eb&label=Profile+Views" />
+</div>
 
-*Open to collaborating on AI/ML and full-stack projects.*
-
+<div align="center">
+<i>⭐ Open to collaborating on AI/ML and full-stack projects — let's build something great.</i>
 </div>
