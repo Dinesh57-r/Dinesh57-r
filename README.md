@@ -138,19 +138,7 @@ Built an AI-driven movie learning review feature on a full MERN stack, lifting u
 
 <br>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Dinesh57-r&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-
-</div>
 
 ## 🧩 Coding Profiles
 
