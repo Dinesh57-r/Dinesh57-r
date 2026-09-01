@@ -137,7 +137,6 @@ Built an AI-driven movie learning review feature on a full MERN stack, lifting u
 </table>
 
 <br>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -148,7 +147,7 @@ Built an AI-driven movie learning review feature on a full MERN stack, lifting u
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh57-r&theme=tokyonight&hide_border=true&ring=2563eb&fire=2563eb" />
+<img src="https://streak-stats.demolab.com/?user=Dinesh57-r&theme=tokyonight&hide_border=true&ring=2563eb&fire=2563eb" />
 
 <br><br>
 
