@@ -152,7 +152,6 @@ Built an AI-driven movie learning review feature on a full MERN stack, lifting u
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh57-r&theme=tokyo-night&hide_border=true" />
 
 </div>
 
