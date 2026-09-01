@@ -145,9 +145,9 @@ Built an AI-driven movie learning review feature on a full MERN stack, lifting u
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2563eb&icon_color=2563eb" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=2563eb" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&ring=2563eb&fire=2563eb" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh57-r&theme=tokyonight&hide_border=true&ring=2563eb&fire=2563eb" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&color=2563eb&line=2563eb" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh57-r&theme=tokyo-night&hide_border=true&color=2563eb&line=2563eb" />
 
 </div>
 
