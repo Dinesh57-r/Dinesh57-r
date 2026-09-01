@@ -137,6 +137,7 @@ Built an AI-driven movie learning review feature on a full MERN stack, lifting u
 </table>
 
 <br>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -154,6 +155,7 @@ Built an AI-driven movie learning review feature on a full MERN stack, lifting u
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh57-r&theme=tokyo-night&hide_border=true&color=2563eb&line=2563eb" />
 
 </div>
+
 
 ## 🧩 Coding Profiles
 
