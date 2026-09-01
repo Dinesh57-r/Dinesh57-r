@@ -142,20 +142,19 @@ Built an AI-driven movie learning review feature on a full MERN stack, lifting u
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dinesh57-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2563eb&icon_color=2563eb" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dinesh57-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh57-r&layout=compact&theme=tokyonight&hide_border=true&title_color=2563eb" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Dinesh57-r&theme=tokyonight&hide_border=true&ring=2563eb&fire=2563eb" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh57-r&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh57-r&theme=tokyo-night&hide_border=true&color=2563eb&line=2563eb" />
+<img src="https://streak-stats.demolab.com/?user=Dinesh57-r&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinesh57-r&theme=tokyo-night&hide_border=true" />
 
 </div>
-
 
 ## 🧩 Coding Profiles
 
